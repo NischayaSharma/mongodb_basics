@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"thesocialcomment.wallet_transactions"}],"uuid":"f898db91892d46fcb470c19424b3ef39"}

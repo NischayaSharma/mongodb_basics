@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"thesocialcomment.user_withdraw_destination"}],"uuid":"74f014e4d017447ca8d29dcaf1f91a5d"}
